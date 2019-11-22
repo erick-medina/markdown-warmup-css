@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://peopleschoicecu.coop/wp-content/uploads/2018/02/site-background.jpg");
+    background-color: #cccccc;
+}
+h1 {
+    color: peru;
+    font-family: "sans-serif";
+    font-size: 400%;
+}
+
+.quote {
+    text-align: center;
+}
+
+h5 {
+    font-family: cursive;
+    font-size: 100%;
+}
+
+h6 {
+    font-family: cursive;
+    font-size: 70%;
+}
+p.cita {
+    border-style: outset;
+}
+p.outset {border-style: outset;}
+
+.centralImg {
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+}
